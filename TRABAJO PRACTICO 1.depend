@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536206916 source:f:\programacion sdo intento\trabajo practico 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536206672 f:\programacion sdo intento\trabajo practico 1\funciones.h
+
+1536206844 source:f:\programacion sdo intento\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
