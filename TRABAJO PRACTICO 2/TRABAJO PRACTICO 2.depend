@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1538179874 source:e:\programacion sdo intento\trabajo practico 2\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1538172494 e:\programacion sdo intento\trabajo practico 2\trabajo practico 2\arrayemployees.h
+
+1538180596 source:e:\programacion sdo intento\trabajo practico 2\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1537984102 source:c:\users\mapalmieri\desktop\utn\trabajo practico 2\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1537981851 c:\users\mapalmieri\desktop\utn\trabajo practico 2\trabajo practico 2\arrayemployees.h
+
+1537984056 source:c:\users\mapalmieri\desktop\utn\trabajo practico 2\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1538345916 source:f:\programacion sdo intento\trabajo practico 2\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayEmployees.h"
+
+1538345332 f:\programacion sdo intento\trabajo practico 2\trabajo practico 2\arrayemployees.h
+
+1538339354 source:f:\programacion sdo intento\trabajo practico 2\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
