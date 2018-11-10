@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541386042 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"MisFunciones.h"
+
+1541365998 d:\programacion sdo intento\trabajo practico 3\tp3\win_32\linkedlist.h
+
+1541368688 d:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.h
+
+1541368688 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541383846 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"MisFunciones.h"
+
+1541383846 d:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.h
+
+1541377716 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1540800592 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1541368600 source:d:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1540798392 d:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.h
+
+1541887484 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541365998 f:\programacion sdo intento\trabajo practico 3\tp3\win_32\linkedlist.h
+
+1541887106 f:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.h
+
+1540800592 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1541811690 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541893200 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541892596 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"MisFunciones.h"
+
+1541893236 source:f:\programacion sdo intento\trabajo practico 3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"MisFunciones.h"
+
+1541870112 f:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.h
+
+1540798392 f:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.h
+
+1540795520 d:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.h
+
+1541368688 source:e:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541365998 e:\programacion sdo intento\trabajo practico 3\tp3\win_32\linkedlist.h
+
+1541368688 e:\programacion sdo intento\trabajo practico 3\tp3\win_32\employee.h
+
+1541809670 source:e:\programacion sdo intento\trabajo practico 3\tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"MisFunciones.h"
+
+1541466614 e:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.h
+
+1540798392 e:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.h
+
+1541811690 source:e:\programacion sdo intento\trabajo practico 3\tp3\win_32\misfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541377716 source:e:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541811798 source:e:\programacion sdo intento\trabajo practico 3\tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"MisFunciones.h"
+
+1540795520 e:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.h
+
+1540795520 f:\programacion sdo intento\trabajo practico 3\tp3\win_32\parser.h
+
